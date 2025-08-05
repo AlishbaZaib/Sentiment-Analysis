@@ -42,7 +42,7 @@ This project focuses on performing **sentiment analysis** using real-world custo
 
 
 
-## 📊 Results
+## Results
 
 - **Logistic Regression** achieved slightly higher accuracy and F1-score  
 - **Naive Bayes** was faster and still performed well  
