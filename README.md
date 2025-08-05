@@ -1,10 +1,10 @@
-# 📦 Sentiment Analysis on Amazon Product Reviews
+# Sentiment Analysis on Amazon Product Reviews
 
 This project focuses on performing **sentiment analysis** using real-world customer reviews from Amazon. The goal is to classify each review as either **positive** or **negative** using **Natural Language Processing (NLP)** and **machine learning techniques**.
 
 
 
-## 🔍 Project Objectives
+## Project Objectives
 
 - Load and explore a real-world Amazon reviews dataset  
 - Clean and preprocess text data for NLP tasks  
@@ -15,23 +15,22 @@ This project focuses on performing **sentiment analysis** using real-world custo
 
 
 
-## 📂 Dataset Details
-
-- 📄 **File**: `Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv`  
+## Dataset Details
+ 
 - **Source**: [Kaggle – Consumer Reviews of Amazon Products](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products)  
 - **Key columns used**:  
   - `reviews.text`  
   - `reviews.rating`
 
 
-## 🧠 Models Used
+## Models Used
 
 - Logistic Regression  
 - Multinomial Naive Bayes
 
 
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python  
 - Pandas, NumPy  
